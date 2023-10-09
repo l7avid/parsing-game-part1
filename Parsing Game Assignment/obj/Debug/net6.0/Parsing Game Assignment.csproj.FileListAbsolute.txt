@@ -1,0 +1,30 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\refint\Parsing Game Assignment.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\ref\Parsing Game Assignment.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\bin\Debug\net6.0\Parsing Game Assignment.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\refint\Parsing Game Assignment.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\Parsing Game Assignment.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\21 - Parse Game Assignment\Parsing Game Assignment\Parsing Game Assignment\obj\Debug\net6.0\ref\Parsing Game Assignment.dll
